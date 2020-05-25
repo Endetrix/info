@@ -8,7 +8,7 @@ layout: default
 
 <br>
 
-![The Eye of Ender](https://imgur.com/4IyF9tE)
+![The Eye of Ender](eye.png)
 
 <br>
 
