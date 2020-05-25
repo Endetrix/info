@@ -7,8 +7,9 @@ layout: default
 ## A WIP site.
 
 <br>
-![Eye](https://raw.githubusercontent.com/Endetrix/info/master/images/eye_irl.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Endetrix/info/master/images/eye_irl.png">
+</p>
 
 ### Use the links below to navigate throughout my GitHub repos!
 <br>
