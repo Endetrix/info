@@ -7,13 +7,13 @@ layout: default
 ## A WIP site.
 
 <br>
-[[/images/eye_irl.png]]
+!(Eye)[https://github.com/Endetrix/info/blob/master/images/eye_irl.png]
 
 
 ### Use the links below to navigate throughout my GitHub repos!
 <br>
 * [All The Things](https://github.com/Endetrix/AllTheThingsMod)
-* [Info Source](https://https://github.com/Endetrix/info)
+* [Info Source](https://github.com/Endetrix/info)
 
 
 
