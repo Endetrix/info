@@ -8,7 +8,7 @@ layout: default
 
 <br>
 
-![The Eye of Ender](eye.png)
+<img src=eye.png alt="The Eye of Ender" width="256" height="197">
 
 <br>
 
