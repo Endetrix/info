@@ -7,7 +7,7 @@ layout: default
 ## A WIP site.
 
 <br>
-[[/images/eye_irl.png|ALT TEXT]]
+[[/images/eye_irl.png]]
 
 
 ### Use the links below to navigate throughout my GitHub repos!
