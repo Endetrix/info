@@ -7,7 +7,7 @@ layout: default
 ## A WIP site.
 
 <br>
-[The Eye of Ender](eye.png)
+![test](https://github.com/favicon.ico =24x48)
 
 
 ### Use the links below to navigate throughout my GitHub repos!
