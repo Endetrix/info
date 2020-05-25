@@ -12,7 +12,7 @@ layout: default
 
 ### Use the links below to navigate throughout my GitHub repos!
 <br>
-* [All The Things](https://github.com/Endetrix/AllTheThingsMod)
+* [All The Things Mod](https://github.com/Endetrix/AllTheThingsMod)
 * [Info Source](https://github.com/Endetrix/info)
 
 
