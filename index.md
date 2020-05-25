@@ -7,7 +7,7 @@ layout: default
 ## A WIP site.
 
 <br>
-<img src=eye.png alt="The Eye of Ender" width="256" height="197">
+[The Eye of Ender](eye.png)
 
 
 ### Use the links below to navigate throughout my GitHub repos!
